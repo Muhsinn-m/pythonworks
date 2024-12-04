@@ -3,3 +3,11 @@ git init[to enitialize git]
 git status[to list all untracked files]
 
 git add -A[to list all untracked files]
+
+git commit -m "added init"[to commit add files to local respository]
+
+git clone[to take exact copy from remote respository to local workspace]
+
+git path[to set changes from local responsitory to remote respository]
+
+
