@@ -1,0 +1,5 @@
+git init[to enitialize git]
+
+git status[to list all untracked files]
+
+git add -A[to list all untracked files]
